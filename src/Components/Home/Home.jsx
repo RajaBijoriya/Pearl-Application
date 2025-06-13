@@ -30,7 +30,7 @@ const Home = () => {
         <div className="mb-10">
           <img
             className="w-full h-[600px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img1.png"
+            src="/img1.png"
             alt=""
           />
           <div className="mt-5">
@@ -43,7 +43,7 @@ const Home = () => {
             <div>
               <img
                 className="w-[700px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-                src="./public/img2.png"
+                src="/img2.png"
                 alt=""
               />
               <div className="mt-5">
@@ -54,7 +54,7 @@ const Home = () => {
             <div>
               <img
                 className="w-[700px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-                src="./public/img33.png"
+                src="/img33.png"
                 alt=""
               />
               <div className="mt-5">
@@ -67,7 +67,7 @@ const Home = () => {
             <div>
               <img
                 className="w-[700px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-                src="./public/img4.png"
+                src="/img4.png"
                 alt=""
               />
               <div className="mt-5">
@@ -80,7 +80,7 @@ const Home = () => {
             <div>
               <img
                 className="w-[700px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-                src="./public/img5.png"
+                src="/img5.png"
                 alt=""
               />
               <div className="mt-5">
@@ -173,7 +173,7 @@ const Home = () => {
         </ul>
       </div>
       <div className="mb-40 mt-40">
-        <img src="./public/lastone.png" alt="" />
+        <img src="/lastone.png" alt="" />
       </div>
     </div>
   );

@@ -17,12 +17,12 @@ const About = () => {
       <div className="flex flex-row gap-5 mt-30 mb-20">
         <img
           className="rounded-2xl w-[600px] h-[260px]"
-          src="./public/about1.png"
+          src="/about1.png"
           alt=""
         />
         <img
           className="rounded-2xl w-[400px] h-[260px]"
-          src="./public/about2.png"
+          src="/about2.png"
           alt=""
         />
       </div>
@@ -47,7 +47,7 @@ const About = () => {
       <div className="mt-30 mb-30">
         <img
           className="rounded-2xl w-full h-[400px]"
-          src="./public/about3.png"
+          src="/about3.png"
           alt=""
         />
       </div>
@@ -102,7 +102,7 @@ const About = () => {
       <div className="mt-30 mb-30">
         <img
           className="rounded-2xl w-full h-[400px]"
-          src="./public/about4.png"
+          src="/about4.png"
           alt=""
         />
       </div>

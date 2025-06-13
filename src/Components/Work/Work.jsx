@@ -15,7 +15,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img1.png"
+            src="/img1.png"
             alt=""
           />
           <div className="mt-5">
@@ -28,7 +28,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img2.png"
+            src="/img2.png"
             alt=""
           />
           <div className="mt-5">
@@ -39,7 +39,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img33.png"
+            src="/img33.png"
             alt=""
           />
           <div className="mt-5">
@@ -50,7 +50,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img4.png"
+            src="/img4.png"
             alt=""
           />
           <div className="mt-5">
@@ -61,7 +61,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img5.png"
+            src="/img5.png"
             alt=""
           />
           <div className="mt-5">
@@ -74,7 +74,7 @@ const Work = () => {
         <div>
           <img
             className="w-[600px] h-[300px] rounded-4xl hover:scale-105 transition duration-300 ease-in-out"
-            src="./public/img1.png"
+            src="/img1.png"
             alt=""
           />
           <div className="mt-5">
